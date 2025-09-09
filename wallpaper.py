@@ -1,0 +1,13 @@
+l=20
+b=15
+h=10
+w1=(l*h)*2
+w2=(b*h)*2
+t=w1+w2
+r=9
+roll=(t/r)
+print(w1)
+print(w2)
+print(t)
+print(r)
+print(roll)
