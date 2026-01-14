@@ -1,0 +1,5 @@
+name=input("enter your name:")
+age=int(input("enter your age:"))
+birthyear=int(input("enter your birthyear:"))
+year=str((birthyear)+100)
+print(name + "will be 100 years old in the year old in year" + year)
