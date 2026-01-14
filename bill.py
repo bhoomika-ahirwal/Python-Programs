@@ -8,6 +8,7 @@ if choice==1:
 	quantity=int(input("enter no. of chips:"))
 	rate=10
 	amout=quantity*rate
+	print(amount)
 elif choice==2:
 	quantity=int(input("enter no. of coke:"))
 	rate=10
